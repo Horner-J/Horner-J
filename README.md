@@ -1,4 +1,4 @@
-### Hi there 👋, Jason Horner
+### Hi there 👋, I'm Jason Horner
 #### Engineering and Development
 ![Engineering and Development](https://pbs.twimg.com/profile_banners/2874687640/1653689838/600x200)
 

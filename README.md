@@ -1,1 +1,1 @@
-[![Jason's GitHub Banner](./assets/glitch-banner2.png)](https://jasonahorner.com)
+[![Jason's GitHub Banner](./assets/github-banner.png)](https://jasonahorner.com)

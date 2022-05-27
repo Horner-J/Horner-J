@@ -13,7 +13,7 @@ Skills: REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horner-J)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Horner-J&show_icons=true&count_private=true)  
+<!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=Horner-J&show_icons=true&count_private=true)--->  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Horner-J)  
 
